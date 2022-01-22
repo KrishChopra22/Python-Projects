@@ -1,8 +1,8 @@
 # Python-Projects
-This Repository contains 3 Python Projects :-
-   - 1. Translator
-   - 2. Tron Game (multiplayer)
-   - 3. Air-Hockey Game (multiplayer)
+This Repository contains 3 Python Projects :- <br>
+   `1. Translator`<br>
+   `2. Tron Game (multiplayer)` <br>
+   `3. Air-Hockey Game (multiplayer)` <br>
     
 Before executing all the programs, you will need to install some packages(modules) like
 PyGame, paddlepaddle etc. for game projects and GoogleTrans, speechRecognition, gTTS, PyAudio etc. for Translator.
